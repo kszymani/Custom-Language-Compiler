@@ -1,6 +1,6 @@
-# Custom Langugage Compiler
+# Custom Language Compiler
 Project of a complier program of a simple imperative language implemented from scratch. 
-Compiler performs lexical, syntax and semantic analysis while outputting quite optimaised machine code for a specific virtual machine.
+Compiler performs lexical, syntax and semantic analysis while outputting assembler-like code for a specific virtual machine.
 
 ## Files included
 Examples of codes that can be run, project requirements, and the target machine itself provided by [dr Maciej Gębala](https://cs.pwr.edu.pl/osoba.php?NICK=MGE).
