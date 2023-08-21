@@ -1,5 +1,5 @@
 # Custom Language Compiler
-Project of a complier program of a simple imperative language implemented from scratch. 
+Project of complier program of a simple imperative language implemented from scratch. 
 Compiler performs lexical, syntax and semantic analysis while outputting assembler-like code for a specific virtual machine.
 
 ## Files included
